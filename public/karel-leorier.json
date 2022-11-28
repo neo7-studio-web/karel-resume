@@ -1,0 +1,133 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Karel Léorier",
+    "label": "Senior Fullstack Web Developer",
+    "image": "",
+    "email": "job@leorier.com",
+    "phone": "+33 (0)6 17 84 29 86",
+    "url": "https://karel.leorier.com",
+    "summary": "Hi ! I'm Karel, 20+ years of experience in Web development for big companies. I'm a friendly guy ☺️, Javascript / NodeJS specialist. Available from France as a Freelance and Full-remote jobs.",
+    "location": {
+      "address": "103 allée du clos jauni",
+      "postalCode": "F-44522",
+      "city": "Mésanger",
+      "countryCode": "FR",
+      "region": "Pays-de-la-Loire"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Pôle Emploi (Accenture contractor)",
+      "location": "Nantes, FR",
+      "description": "French national employment agency",
+      "position": "Tech Manager",
+      "url": "https://www.douane.gouv.fr/",
+      "startDate": "2008-02-01",
+      "endDate": "2011-03-31",
+      "summary": "LOT 5 was a progressive maintenance of Statistics and BI application.",
+      "highlights": [
+        "Tech lead on 5 five projects with 3 technologies : BI (SAS, Datastage), Java, Big systems (Cobol, GCOS 8, Pacbase)",
+        "Was responsible for contractual commitments",
+        "2 years call for tenders won at the end of the first period"
+      ]
+    },
+    {
+      "name": "Directions des Douanes (Accenture contractor)",
+      "location": "Nantes, FR",
+      "description": "National Administrative Direction for Customs",
+      "position": "Junior manager & Web Technical lead",
+      "url": "https://www.douane.gouv.fr/",
+      "startDate": "2007-02-01",
+      "endDate": "2008-01-31",
+      "summary": "GAMMA was a european coordinated project for dematerialization of a paper-based procedure for handling alcohol, cigarettes and petrol taxes.",
+      "highlights": [
+        "Based on European requirements specifications",
+        "Java/J2EE architecture, SOA oriented (XML) / Enterprise Service Bus",
+        "Project on-time & budget, and successfully deployed for France"
+      ]
+    },
+    {
+      "name": "AXA Netherlands (Accenture contractor)",
+      "location": "Nantes, FR",
+      "description": "International Insurance company",
+      "position": "Junior manager & Web Technical lead",
+      "url": "https://www.axa.com/en",
+      "startDate": "2006-09-01",
+      "endDate": "2007-01-31",
+      "summary": "Progressive maintenance of a Java/J2EE web application for life insurance management."
+    },
+    {
+      "name": "Crédit du Nord (Accenture contractor)",
+      "location": "Paris, FR",
+      "description": "National Bank",
+      "position": "Frontend developer, Backend Developer, Architect",
+      "url": "https://www.credit-du-nord.fr/",
+      "startDate": "2001-12-01",
+      "endDate": "2006-08-31",
+      "summary": "CHOPIN was a multi-year program for developing internal clientele management (both personal and professional) used by all the bank's employees.",
+      "highlights": [
+        "Java/J2EE architecture, frontend JSP, Javascript & HTML",
+        "Other tools : Dreamweaver, Eclipse, WebLogic, ClearCase",
+        "Project successfully deployed in 300+ agencies"
+      ]
+    }
+    
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "url": "https://www.ou.edu/",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
